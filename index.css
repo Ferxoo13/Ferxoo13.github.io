@@ -1,0 +1,21 @@
+#contenedor{
+    background-color: aliceblue;
+    width: 779px;
+    margin:0 auto;
+}
+#cabecera{
+    background-color:gray;
+    width: 779px;
+    height: 80px;
+}
+#banner{
+    height: 150px;
+}
+#contenido{
+    background-color: red;
+    height: 340px;
+}
+#piedepagina{
+    background-color:brown;
+    height: 60px;
+}
